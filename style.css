@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.counter{
+    margin-top: 5rem !important;
+}
+
+.heading {
+    margin-top: 10rem !important;
+}
